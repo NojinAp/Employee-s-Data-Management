@@ -1,5 +1,5 @@
 # Employee-s-Data-Management
-This program is built using Oracle 12c and Oracle C++ Call Interface. The user can access every employee's data by entering their ID number. They can view, modify, add and delete an employee.
+<p align="justify">This program is built using Oracle 12c and Oracle C++ Call Interface. The user can access every employee's data by entering their ID number. They can view, modify, add and delete an employee.</p>
 
 Employee's Table Sample:
 
